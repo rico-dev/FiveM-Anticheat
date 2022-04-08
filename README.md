@@ -80,6 +80,8 @@
 
 🛡 Anti Blacklisted Names
 
+🛡 Anti Blacklisted Words
+
 🛡 Anti Blacklisted Events
 
 🛡 Anti Vehicle Spam
