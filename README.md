@@ -96,8 +96,10 @@
 
 🛡 Anti Explosion
 
+🛡 Anti Taze all
+
 and very more...
 
-Videos in our [Discord](https://dsc.gg/imoshield/)
+Videos in our [Discord](https://discord.gg/imoshield/)
 
 [Website](https://imoshield.net/)
