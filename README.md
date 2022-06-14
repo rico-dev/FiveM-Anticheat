@@ -1,102 +1,148 @@
-# ImoShield - FiveM-Anticheat
+# 🛡 ImoShield - Best FiveM Anticheat 🛡
 
-🛡 Anti Nui Devtools
 
-🛡 Anti Blips
 
-🛡 Anti Weapon Pickup
+🛡 Clientside -->
 
-🛡 Anti Spectate
+🛡 Anti Godmode [EULEN]
 
-🛡 Anti Freecam
+🛡 AntiAIFolder
 
-🛡 Anti SuperJump
+🛡 Blacklisted Weapons
 
-🛡 Anti Explosion Bullet
+🛡 AntiWeaponPickup
 
-🛡 Anti ESX
+🛡 AntiInfiniteAmmo [EULEN]
 
-🛡 Anti Vision / NightVision / ThermalVision
+🛡 AntiDamageModifier
 
-🛡 Anti God-Mode ( Semi, Eulen )
+🛡 AntiDamageChanger
 
-🛡 Anti Teleport
+🛡 AntiAimbot
 
-🛡 Anti Start / Stop
+🛡 AntiTriggerbot
 
-🛡 Anti Stop Anticheat 
+🛡 AntiThermalVision
 
-🛡 Anti Injection
+🛡 AntiNightVision
 
-🛡 On Screen Menu Detection
+🛡 AntiExplosiveBullet
 
-🛡 Anti Asi
+🛡 AntiInvisible
 
-🛡 Anti Blacklisted Weapons 
+🛡 AntiSpectate
 
-🛡 Blacklisted Keys Screenshots
+🛡 AntiTeleport
 
-🛡 Anti Infinite Ammo
+🛡 AntiFreecam
 
-🛡 Anti Damage Modifier
+🛡 AntiFastrun
 
-🛡 Anti Damage Changer ( AI Folder )
+🛡 AntiSuperjump
 
-🛡 Weapon Explosive Check ( RPG, Railgun )
+🛡 AntiNoclip
 
-🛡 Anti Invisible
+🛡 AntiTinyPed
 
-🛡 Anti Vehicle Modifiers
+🛡 AntiInjection [DOPAMINE, HYDRO]
 
-🛡 Anti Particles
+🛡 ImoShieldAI System
 
-🛡 Anti Jail All
+🛡 AntiNuiDevtoools
 
-🛡 Anti Community Service All
+🛡 AntiVehicleGrab [SKRIPT.GG]
 
-🛡 Anti Anti Cheese ( Hydro Menu )
+🛡 AntiVoidTP [SKRIPT.GG]
 
-🛡 Anti Dpemote All
+🛡 AntiCarFly
 
-🛡 Anti Policejob Exploits ( Handcuff all etc )
+🛡 AntiVehicleModifers
 
-🛡 Anti Tackle Exploit
+🛡 AntiLicenseClears
 
-🛡 Anti Carry Exploit
+🛡 AntiStopper
 
-🛡 Anti Kashacter Exploit ( Give Self Admin Perms )
+🛡 AntiAFKBypass
 
-🛡 Anti ClearPedTask
+🛡 AntiHashChanger
 
-🛡 Anti Remove Weapon
+🛡 AntiESX
 
-🛡 Anti Give Weapon
+🛡 AntiBlacklistedTasks 
 
-🛡 Anti Blacklisted Entity
+🛡 AntiBlacklistedAnims
 
-🛡 Anti Blacklisted Vehicles
+🛡 Screenshot keys
 
-🛡 Anti Blacklisted Peds 
+🛡 AntiGiveWeapon [EULEN]
 
-🛡 Anti Blacklisted Names
+🛡 AntiVehicleSpawn [EULEN]
 
-🛡 Anti Blacklisted Words
+🛡 Delete Broken Cars
 
-🛡 Anti Blacklisted Events
 
-🛡 Anti Vehicle Spam
 
-🛡 Anti Ped Spam
+🛡 Server Side -->
 
-🛡 Anti Spawn Objects ( Cage etc )
+🛡 BlacklistedChatMessages
 
-🛡 Max Value Events
+🛡 BlacklistedNames
 
-🛡 Anti Spam Trigger
+🛡 BlacklistedEvents
 
-🛡 Anti Explosion
+🛡 AntiChatSpam 
 
-🛡 Anti Taze all
+🛡 AntiExploit [Many Exploits]
+
+🛡 AntiClearPedTask
+
+🛡 MaxAmmo
+
+🛡 AntiTriggerSpam 
+
+🛡 MaxValuedEvents
+
+🛡 AntiParticles
+
+🛡 Blacklisted Vehicles
+
+🛡 Blacklisted Peds
+
+🛡 Blacklisted Entity
+
+🛡 AntiVehicleSpam
+
+🛡 AntiPedSpam
+
+🛡 AntiExplosion
+
+
+
+🛡 ☆Everything customizable with tables☆
+
+🛡 ☆Globalban System☆
+
+🛡 ☆Low Resmon [0.10ms]☆
+
+🛡 ☆Web Panel☆
+
+🛡 ☆Admin Commands☆
+
+🛡 ☆Logs -->
+
+🛡 Explosions
+
+🛡 Bans
+
+🛡 Commands
+
+🛡 Screenshots
+
+🛡 Connect / Disconnect☆
+
+🛡 ☆Fast Support☆
+
+🛡 ☆Weekly Updates☆ 
 
 and very more...
 
